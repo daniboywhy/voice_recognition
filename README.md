@@ -1,0 +1,1 @@
+This project consists of an interactive game where the player tries to guess a secret number using voice recognition. The game is implemented using HTML, CSS, and JavaScript, with integration of the browser's Speech Recognition API.
