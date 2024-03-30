@@ -23,6 +23,10 @@ h1 {
     font-size: 4em;
 }
 
+h2 {
+    font-size: 4em;
+}
+
 h3 {
     font-size: 2em;
     margin-top: 15px;
@@ -39,4 +43,16 @@ h3 {
     font-size: 2em;
     padding: 10px;
     margin: 20px;
+}
+
+.btn-play {
+    height: 3em;
+    font-size: 1.3em;
+    padding: 8px 15px;
+    border: 0;
+    background: var(--primary-color);
+    border-radius: 5px;
+    margin-top: 20px;
+    font-family: var(--font-family);
+
 }
